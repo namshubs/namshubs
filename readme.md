@@ -36,7 +36,7 @@ I intentionally avoid social media to prioritize privacy and authentic connectio
 > — Maxim Gorky *(attributed)*
 
 > *"Dream no small dreams for they have no power to move the hearts of men."*
-> - Johan Wolfgang von Goethe
+> — Johan Wolfgang von Goethe
 
 ---
 
