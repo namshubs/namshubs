@@ -1,41 +1,42 @@
 # Hi, I'm namshubs 👋
 
-### 🚀 StartUp Guy | IT Company Builder | Privacy Advocate
+### 🚀 Startup Builder | IT Company Founder | Privacy Advocate
 
 Welcome to my GitHub profile!  
-I'm passionate about launching and scaling IT-related companies, with a strong focus on privacy, IT security, and global trade procurement.
+I’m passionate about launching and scaling IT-related companies, with a strong focus on privacy, cybersecurity, and global trade procurement.
 
 ---
 
 #### 💡 **Top Skills**
-- Setting up IT companies from scratch
-- Privacy and IT security expertise
-- Trade procurement and supplychains
-- Global approach 
+- Building IT companies from zero to scale  
+- Expertise in privacy and cybersecurity  
+- Global trade procurement and supply chains  
 
 ---
 
 #### 🏆 **Favorite Fields**
-- **Telemedicine**: Innovating in healthcare technology  
-- **Crypto**: Exploring blockchain and decentralized solutions 
-- **Networking 1**: People - building connections - achieving together
-- **Networking 2**: Networking - the pysical part of the above
-  
+- **Telemedicine:** Innovating in healthcare technology  
+- **Crypto:** Exploring blockchain and decentralized solutions  
+- **Networking (People):** Building connections and achieving together  
+- **Networking (Tech):** The infrastructure that makes it possible  
 
 ---
 
 #### 🌏 **Hobbies & Interests**
-I love submerging myself into foreign cultures, learning from global perspectives, and discovering new ways technology can bridge gaps.
+I enjoy immersing myself in new cultures and exploring how technology can bridge global divides.
 
 ---
 
 #### ❌ **Social Media Stance**
-Due to my extensive experience, I intentionally avoid social media to prioritize privacy and authentic connections.
+I intentionally avoid social media to prioritize privacy and authentic connections.
 
 ---
 
-> “Life needs to be stirred more often so it doesn't go sour”
+> *"Life needs to be stirred more often so it doesn't go sour."*  
+> — Maxim Gorky *(attributed)*
+> *"Dream no small dreams for they have no power to move the hearts of men."*
+> - Johan Wolfgang von Goethe
 
 ---
 
-Feel free to explore (future) repositories or contact me!
+Feel free to explore my repositories or connect with me for collaborations!
