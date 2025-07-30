@@ -10,14 +10,17 @@ I'm passionate about launching and scaling IT-related companies, with a strong f
 #### 💡 **Top Skills**
 - Setting up IT companies from scratch
 - Privacy and IT security expertise
-- Trade procurement and strategic networking
+- Trade procurement and supplychains
+- Global approach 
 
 ---
 
 #### 🏆 **Favorite Fields**
 - **Telemedicine**: Innovating in healthcare technology  
-- **Crypto**: Exploring blockchain and decentralized solutions  
-- **Networking**: Building connections that drive impact
+- **Crypto**: Exploring blockchain and decentralized solutionsm  
+- **Networking 1**: People - building connections - achieving together
+- **Networking 2**: Networking - the pysical part of the above
+  
 
 ---
 
