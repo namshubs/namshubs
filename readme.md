@@ -32,11 +32,9 @@ I intentionally avoid social media to prioritize privacy and authentic connectio
 
 ---
 
-> *"Life needs to be stirred more often so it doesn't go sour."*  
-> — Maxim Gorky *(attributed)*
+> *"Life needs to be stirred more often so it doesn't go sour."* — Maxim Gorky *(attributed)*
 
-> *"Dream no small dreams for they have no power to move the hearts of men."*
-> — Johan Wolfgang von Goethe
+> *"Dream no small dreams for they have no power to move the hearts of men."* — Johann Wolfgang von Goethe
 
 ---
 
