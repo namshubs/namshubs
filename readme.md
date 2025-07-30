@@ -34,8 +34,8 @@ Due to my extensive experience, I intentionally avoid social media to prioritize
 
 ---
 
-> “Building the future, one secure connection at a time.”
+> “Life needs to be stirred more often so it doesn't go sour”
 
 ---
 
-Feel free to explore my repositories and reach out via GitHub issues if you’d like to collaborate or connect!
+Feel free to explore (future) repositories or contact me!
