@@ -17,7 +17,7 @@ I'm passionate about launching and scaling IT-related companies, with a strong f
 
 #### 🏆 **Favorite Fields**
 - **Telemedicine**: Innovating in healthcare technology  
-- **Crypto**: Exploring blockchain and decentralized solutionsm  
+- **Crypto**: Exploring blockchain and decentralized solutions 
 - **Networking 1**: People - building connections - achieving together
 - **Networking 2**: Networking - the pysical part of the above
   
